@@ -12,7 +12,6 @@ public class connect{
 //        5.Create Statement
 //        6.Excecute Statement
 //        7.Close Connection
-
         org.postgresql.Driver driver = new org.postgresql.Driver();
 
         String url = "jdbc:postgresql://localhost:5432/JDBCDemo1";
